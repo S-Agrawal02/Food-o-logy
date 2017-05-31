@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">foodology</string>
+    <string-array name="veg_item">
+        <item>Tomato</item>
+        <item>Potato</item>
+        <item>Spinach</item>
+        <item>Paneer</item>
+    </string-array>
+
+    <string-array name="nonveg_item">
+        <item>Egg</item>
+        <item>Chicken</item>
+        <item>Fish</item>
+        <item>Mutton</item>
+    </string-array>
+
+    <string-array name="fruit_item">
+        <item>Mango</item>
+        <item>Orange</item>
+        <item>Apple</item>
+        <item>Banana</item>
+    </string-array>
+
+    <string name="title_activity_sc">sc</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
